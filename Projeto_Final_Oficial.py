@@ -74,7 +74,7 @@ def simular():
         # Interação e Transição de Conhecimento
         atualizar_estados(rede, populacao)
 
-        # Visualização opcional
+        # Visualização 
         # visualizar_estado(rede, populacao)
 
 # Mobilidade baseada em DMM e PIM
