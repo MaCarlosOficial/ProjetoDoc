@@ -19906,3 +19906,588 @@ trailer
 startxref
 2138374
 %%EOF
+4 0 obj<</Length 6505/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c001 79.675d0f7, 2023/06/11-19:21:16        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+            xmlns:jav="http://www.niso.org/schemas/jav/1.0/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:crossmark="http://crossref.org/crossmark/1.0/"
+            xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/">
+         <dc:format>application/pdf</dc:format>
+         <dc:identifier>10.1080/17477778.2018.1508937</dc:identifier>
+         <dc:lang>en</dc:lang>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Modelling and simulating knowledge diffusion in knowledge collaboration organisations using improved cellular automata</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Su Jiafu</rdf:li>
+               <rdf:li>Zhang Xuefeng</rdf:li>
+               <rdf:li>Yang Jiaquan</rdf:li>
+               <rdf:li>Qian Xiaoduo</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:publisher>
+            <rdf:Bag>
+               <rdf:li>Taylor &amp; Francis</rdf:li>
+            </rdf:Bag>
+         </dc:publisher>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Journal of Simulation, 2019. doi:10.1080/17477778.2018.1508937</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <dc:subject>
+            <rdf:Bag>
+               <rdf:li>Knowledge collaboration organisation</rdf:li>
+               <rdf:li>knowledge diffusion</rdf:li>
+               <rdf:li>SEIR model</rdf:li>
+               <rdf:li>heterogeneity and mobility</rdf:li>
+               <rdf:li>cellular automata</rdf:li>
+            </rdf:Bag>
+         </dc:subject>
+         <prism:aggregationType>Journal</prism:aggregationType>
+         <prism:publicationName>Journal of Simulation</prism:publicationName>
+         <prism:copyright>¬© Operational Research Society 2019.</prism:copyright>
+         <prism:issn>1747-7778</prism:issn>
+         <prism:elssn>1747-7786</prism:elssn>
+         <prism:volume>13</prism:volume>
+         <prism:number>3</prism:number>
+         <prism:issueName/>
+         <prism:startingPage>181</prism:startingPage>
+         <prism:endingPage>194</prism:endingPage>
+         <prism:doi>10.1080/17477778.2018.1508937</prism:doi>
+         <prism:url>https://doi.org/10.1080/17477778.2018.1508937</prism:url>
+         <jav:journal_article_version>VoR</jav:journal_article_version>
+         <xmp:CreateDate>2019-09-09T14:40:49+05:30</xmp:CreateDate>
+         <xmp:CreatorTool>Arbortext Advanced Print Publisher 11.0.3433/W Unicode</xmp:CreatorTool>
+         <xmp:ModifyDate>2025-06-02T14:15:31-03:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2025-06-02T14:15:31-03:00</xmp:MetadataDate>
+         <pdf:Keywords>Knowledge collaboration organisation; knowledge diffusion; SEIR model; heterogeneity and mobility; cellular automata</pdf:Keywords>
+         <pdf:Producer>Acrobat Distiller 8.1.0 (Windows)</pdf:Producer>
+         <xmpMM:DocumentID>uuid:4c973a80-4b30-4d76-a1d2-f9e03a64abc2</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:5a5b7d61-8ace-496e-8c11-ba38e3f49fe4</xmpMM:InstanceID>
+         <crossmark:DOI>10.1080/17477778.2018.1508937</crossmark:DOI>
+         <crossmark:MajorVersionDate>2018-09-04</crossmark:MajorVersionDate>
+         <crossmark:CrossmarkDomainExclusive>True</crossmark:CrossmarkDomainExclusive>
+         <crossmark:CrossMarkDomains>
+            <rdf:Seq>
+               <rdf:li>www.tandfonline.com</rdf:li>
+            </rdf:Seq>
+         </crossmark:CrossMarkDomains>
+         <pdfx:doi>10.1080/17477778.2018.1508937</pdfx:doi>
+         <pdfx:CrossmarkMajorVersionDate>2018-09-04</pdfx:CrossmarkMajorVersionDate>
+         <pdfx:CrossmarkDomainExclusive>True</pdfx:CrossmarkDomainExclusive>
+         <pdfx:CrossMarkDomains>
+            <rdf:Seq>
+               <rdf:li>www.tandfonline.com</rdf:li>
+            </rdf:Seq>
+         </pdfx:CrossMarkDomains>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj7 0 obj<</Author(Su Jiafu)/CreationDate(D:20190909144049+05'30')/Creator(Arbortext Advanced Print Publisher 11.0.3433/W Unicode)/CrossMarkDomains#5B1#5D(www.tandfonline.com)/CrossmarkDomainExclusive(True)/CrossmarkMajorVersionDate(2018-09-04)/Keywords(Knowledge collaboration organisation; knowledge diffusion; SEIR model; heterogeneity and mobility; cellular automata)/ModDate(D:20250602141531-03'00')/Producer(Acrobat Distiller 8.1.0 \(Windows\))/Subject(Journal of Simulation, 2019. doi:10.1080/17477778.2018.1508937)/Title(Modelling and simulating knowledge diffusion in knowledge collaboration organisations using improved cellular automata)/doi(10.1080/17477778.2018.1508937)>>endobj13 0 obj<</Annots[125 0 R 545 0 R 546 0 R]/Contents 126 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 2 0 R/Resources 127 0 R/Rotate 0/Type/Page>>endobj545 0 obj<</AP<</N 547 0 R>>/C[1.0 0.384308 0.0]/CA 0.399994/Contents(Transition S to E)/CreationDate(D:20250602141459-03'00')/F 4/M(D:20250602141514-03'00')/NM(677cff34-c2fd-4a93-b00e-2f2da95e06b2)/P 13 0 R/Popup 546 0 R/QuadPoints[306.654 270.733 535.252 270.733 306.654 259.057 535.252 259.057 306.654 257.692 535.26 257.688 306.654 246.012 535.26 246.012 306.652 244.709 535.386 244.709 306.652 233.033 535.386 233.033 306.652 231.731 535.365 231.731 306.652 220.055 535.365 220.055 306.652 218.69 535.271 218.69 306.652 207.014 535.271 207.014 306.652 205.712 535.281 205.712 306.652 194.036 535.281 194.036 306.652 192.734 535.344 192.734 306.652 181.058 535.344 181.058 306.652 179.693 434.942 179.693 306.652 168.017 434.942 168.017]/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:25.1.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:-14.0pt;text-align:left;font-weight:normal;\font-style:normal">Transition S to E</span></p></body>)/Rect[306.287 167.652 535.751 271.098]/Subj(Realce)/Subtype/Highlight/T(Marcelo)/Type/Annot>>endobj546 0 obj<</F 28/Open false/Parent 545 0 R/Rect[595.276 178.733 779.276 270.733]/Subtype/Popup/Type/Annot>>endobj547 0 obj<</BBox[0.0 0.0 229.464 103.446]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 548 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+
+endstreamendobj548 0 obj<</BBox[0.0 0.0 229.464 103.446]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 549 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj549 0 obj<</BBox[306.287 167.652 535.751 271.098]/Filter[/FlateDecode]/FormType 1/Length 212/Matrix[1.0 0.0 0.0 1.0 -306.287 -167.652]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+Hâtë9n1 ˚}Ö^@˘°§qö4˛æπàµkJ;–HëÇÑ
+∆¿Ò˚} LŒœC–¡M[⁄îÒs£YØDx<6ñ=[Í„¯∫eu@"ˇÏŸO¶Â:“ãiç-ıÓQ±+x2Uòò˙∂%Ï∂‹^d¨πMZQ®ˆ#Y∂ÔŸr{gMÆ‹äµ5^?V≥ÌŸr[ëRkrßVDÉIó§;tôΩTs«géíœìÊZOUˆÏ≠ˆûGMÌ=8ÛºÛ˘RE!µNæeÀ=ã/ Ò`Ñ"
+endstreamendobjxref
+0 1
+0000000000 65535 f
+4 1
+0002138827 00000 n
+7 1
+0002145409 00000 n
+13 1
+0002146101 00000 n
+545 5
+0002146286 00000 n
+0002147445 00000 n
+0002147561 00000 n
+0002147909 00000 n
+0002148145 00000 n
+trailer
+<</Size 550/Root 1 0 R/Info 7 0 R/ID[<5754FA9B26F3D1F0B3F123B398E035E9><223BA9D50233C548AA4A82AC33D2AB40>]/Prev 2138374>>
+startxref
+2148575
+%%EOF
+4 0 obj<</Length 6505/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c001 79.675d0f7, 2023/06/11-19:21:16        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+            xmlns:jav="http://www.niso.org/schemas/jav/1.0/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:crossmark="http://crossref.org/crossmark/1.0/"
+            xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/">
+         <dc:format>application/pdf</dc:format>
+         <dc:identifier>10.1080/17477778.2018.1508937</dc:identifier>
+         <dc:lang>en</dc:lang>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Modelling and simulating knowledge diffusion in knowledge collaboration organisations using improved cellular automata</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Su Jiafu</rdf:li>
+               <rdf:li>Zhang Xuefeng</rdf:li>
+               <rdf:li>Yang Jiaquan</rdf:li>
+               <rdf:li>Qian Xiaoduo</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:publisher>
+            <rdf:Bag>
+               <rdf:li>Taylor &amp; Francis</rdf:li>
+            </rdf:Bag>
+         </dc:publisher>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Journal of Simulation, 2019. doi:10.1080/17477778.2018.1508937</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <dc:subject>
+            <rdf:Bag>
+               <rdf:li>Knowledge collaboration organisation</rdf:li>
+               <rdf:li>knowledge diffusion</rdf:li>
+               <rdf:li>SEIR model</rdf:li>
+               <rdf:li>heterogeneity and mobility</rdf:li>
+               <rdf:li>cellular automata</rdf:li>
+            </rdf:Bag>
+         </dc:subject>
+         <prism:aggregationType>Journal</prism:aggregationType>
+         <prism:publicationName>Journal of Simulation</prism:publicationName>
+         <prism:copyright>¬© Operational Research Society 2019.</prism:copyright>
+         <prism:issn>1747-7778</prism:issn>
+         <prism:elssn>1747-7786</prism:elssn>
+         <prism:volume>13</prism:volume>
+         <prism:number>3</prism:number>
+         <prism:issueName/>
+         <prism:startingPage>181</prism:startingPage>
+         <prism:endingPage>194</prism:endingPage>
+         <prism:doi>10.1080/17477778.2018.1508937</prism:doi>
+         <prism:url>https://doi.org/10.1080/17477778.2018.1508937</prism:url>
+         <jav:journal_article_version>VoR</jav:journal_article_version>
+         <xmp:CreateDate>2019-09-09T14:40:49+05:30</xmp:CreateDate>
+         <xmp:CreatorTool>Arbortext Advanced Print Publisher 11.0.3433/W Unicode</xmp:CreatorTool>
+         <xmp:ModifyDate>2025-06-02T14:33:45-03:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2025-06-02T14:33:45-03:00</xmp:MetadataDate>
+         <pdf:Keywords>Knowledge collaboration organisation; knowledge diffusion; SEIR model; heterogeneity and mobility; cellular automata</pdf:Keywords>
+         <pdf:Producer>Acrobat Distiller 8.1.0 (Windows)</pdf:Producer>
+         <xmpMM:DocumentID>uuid:4c973a80-4b30-4d76-a1d2-f9e03a64abc2</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:72d8b0bf-1169-47c6-8d31-e0118299cb17</xmpMM:InstanceID>
+         <crossmark:DOI>10.1080/17477778.2018.1508937</crossmark:DOI>
+         <crossmark:MajorVersionDate>2018-09-04</crossmark:MajorVersionDate>
+         <crossmark:CrossmarkDomainExclusive>True</crossmark:CrossmarkDomainExclusive>
+         <crossmark:CrossMarkDomains>
+            <rdf:Seq>
+               <rdf:li>www.tandfonline.com</rdf:li>
+            </rdf:Seq>
+         </crossmark:CrossMarkDomains>
+         <pdfx:doi>10.1080/17477778.2018.1508937</pdfx:doi>
+         <pdfx:CrossmarkMajorVersionDate>2018-09-04</pdfx:CrossmarkMajorVersionDate>
+         <pdfx:CrossmarkDomainExclusive>True</pdfx:CrossmarkDomainExclusive>
+         <pdfx:CrossMarkDomains>
+            <rdf:Seq>
+               <rdf:li>www.tandfonline.com</rdf:li>
+            </rdf:Seq>
+         </pdfx:CrossMarkDomains>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj7 0 obj<</Author(Su Jiafu)/CreationDate(D:20190909144049+05'30')/Creator(Arbortext Advanced Print Publisher 11.0.3433/W Unicode)/CrossMarkDomains#5B1#5D(www.tandfonline.com)/CrossmarkDomainExclusive(True)/CrossmarkMajorVersionDate(2018-09-04)/Keywords(Knowledge collaboration organisation; knowledge diffusion; SEIR model; heterogeneity and mobility; cellular automata)/ModDate(D:20250602143345-03'00')/Producer(Acrobat Distiller 8.1.0 \(Windows\))/Subject(Journal of Simulation, 2019. doi:10.1080/17477778.2018.1508937)/Title(Modelling and simulating knowledge diffusion in knowledge collaboration organisations using improved cellular automata)/doi(10.1080/17477778.2018.1508937)>>endobj14 0 obj<</Annots 550 0 R/Contents 128 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 2 0 R/Resources 129 0 R/Rotate 0/Type/Page>>endobj550 0 obj[551 0 R 552 0 R 553 0 R 554 0 R]endobj551 0 obj<</AP<</N 558 0 R>>/C[1.0 0.756866 0.0]/CA 0.399994/CreationDate(D:20250602143339-03'00')/F 4/M(D:20250602143339-03'00')/NM(24c1219a-fdfc-4750-b01a-334a461f206b)/P 14 0 R/Popup 552 0 R/QuadPoints[59.9811 62.7417 288.611 62.7417 59.9811 51.0657 288.611 51.0657]/Rect[59.6162 50.7008 288.976 63.1066]/Subj(Realce)/Subtype/Highlight/T(Marcelo)/Type/Annot>>endobj552 0 obj<</F 28/Open false/Parent 551 0 R/Rect[595.276 -29.2583 779.276 62.7417]/Subtype/Popup/Type/Annot>>endobj553 0 obj<</AP<</N 555 0 R>>/C[1.0 0.756866 0.0]/CA 0.399994/CreationDate(D:20250602143342-03'00')/F 4/M(D:20250602143342-03'00')/NM(6ed0d9ce-dbd2-4d59-be81-66d3b0e6de6f)/P 14 0 R/Popup 554 0 R/QuadPoints[306.649 493.613 535.237 493.613 306.649 481.937 535.237 481.937 306.649 480.635 535.33 480.635 306.649 468.959 535.33 468.959 306.649 467.657 444.694 467.657 306.649 455.981 444.694 455.981]/Rect[306.285 455.616 535.695 493.978]/Subj(Realce)/Subtype/Highlight/T(Marcelo)/Type/Annot>>endobj554 0 obj<</F 28/Open false/Parent 553 0 R/Rect[595.276 401.613 779.276 493.613]/Subtype/Popup/Type/Annot>>endobj555 0 obj<</BBox[0.0 0.0 229.411 38.362]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 556 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+
+endstreamendobj556 0 obj<</BBox[0.0 0.0 229.411 38.362]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 557 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj557 0 obj<</BBox[306.285 455.616 535.695 493.978]/Filter[/FlateDecode]/FormType 1/Length 118/Matrix[1.0 0.0 0.0 1.0 -306.285 -455.616]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+Hâtå±√0{M¡	IOæ»Öí∆n“d}€@XÄS˛·ÔöTŒ • Á]Œ’3‰[P©¥4±höê˝∆ »VÆœl∫[y›lÜ¶g_äQï˛≥Å˙áMw-∫kFkKëCÈ„<öô2èhöWÔ` =O5s
+endstreamendobj558 0 obj<</BBox[0.0 0.0 229.359 12.4057]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 559 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+
+endstreamendobj559 0 obj<</BBox[0.0 0.0 229.359 12.4057]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 560 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj560 0 obj<</BBox[59.6162 50.7008 288.976 63.1066]/FormType 1/Length 101/Matrix[1.0 0.0 0.0 1.0 -59.6162 -50.7008]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+1 0.756866 0 rg
+0.7298 w
+59.9811 51.0657 m
+59.9811 62.7417 l
+288.6108 62.7417 l
+288.6108 51.0657 l
+f
+
+endstreamendobjxref
+0 1
+0000000000 65535 f
+4 1
+0002148948 00000 n
+7 1
+0002155530 00000 n
+14 1
+0002156222 00000 n
+550 11
+0002156390 00000 n
+0002156441 00000 n
+0002156812 00000 n
+0002156929 00000 n
+0002157426 00000 n
+0002157542 00000 n
+0002157889 00000 n
+0002158124 00000 n
+0002158460 00000 n
+0002158808 00000 n
+0002159044 00000 n
+trailer
+<</Size 561/Root 1 0 R/Info 7 0 R/ID[<5754FA9B26F3D1F0B3F123B398E035E9><D1DFD9DC8B3E764BA84BC13F0C7AF57C>]/Prev 2148575>>
+startxref
+2159342
+%%EOF
+4 0 obj<</Length 6505/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c001 79.675d0f7, 2023/06/11-19:21:16        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+            xmlns:jav="http://www.niso.org/schemas/jav/1.0/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:crossmark="http://crossref.org/crossmark/1.0/"
+            xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/">
+         <dc:format>application/pdf</dc:format>
+         <dc:identifier>10.1080/17477778.2018.1508937</dc:identifier>
+         <dc:lang>en</dc:lang>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Modelling and simulating knowledge diffusion in knowledge collaboration organisations using improved cellular automata</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Su Jiafu</rdf:li>
+               <rdf:li>Zhang Xuefeng</rdf:li>
+               <rdf:li>Yang Jiaquan</rdf:li>
+               <rdf:li>Qian Xiaoduo</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:publisher>
+            <rdf:Bag>
+               <rdf:li>Taylor &amp; Francis</rdf:li>
+            </rdf:Bag>
+         </dc:publisher>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Journal of Simulation, 2019. doi:10.1080/17477778.2018.1508937</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <dc:subject>
+            <rdf:Bag>
+               <rdf:li>Knowledge collaboration organisation</rdf:li>
+               <rdf:li>knowledge diffusion</rdf:li>
+               <rdf:li>SEIR model</rdf:li>
+               <rdf:li>heterogeneity and mobility</rdf:li>
+               <rdf:li>cellular automata</rdf:li>
+            </rdf:Bag>
+         </dc:subject>
+         <prism:aggregationType>Journal</prism:aggregationType>
+         <prism:publicationName>Journal of Simulation</prism:publicationName>
+         <prism:copyright>¬© Operational Research Society 2019.</prism:copyright>
+         <prism:issn>1747-7778</prism:issn>
+         <prism:elssn>1747-7786</prism:elssn>
+         <prism:volume>13</prism:volume>
+         <prism:number>3</prism:number>
+         <prism:issueName/>
+         <prism:startingPage>181</prism:startingPage>
+         <prism:endingPage>194</prism:endingPage>
+         <prism:doi>10.1080/17477778.2018.1508937</prism:doi>
+         <prism:url>https://doi.org/10.1080/17477778.2018.1508937</prism:url>
+         <jav:journal_article_version>VoR</jav:journal_article_version>
+         <xmp:CreateDate>2019-09-09T14:40:49+05:30</xmp:CreateDate>
+         <xmp:CreatorTool>Arbortext Advanced Print Publisher 11.0.3433/W Unicode</xmp:CreatorTool>
+         <xmp:ModifyDate>2025-06-02T14:35:13-03:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2025-06-02T14:35:13-03:00</xmp:MetadataDate>
+         <pdf:Keywords>Knowledge collaboration organisation; knowledge diffusion; SEIR model; heterogeneity and mobility; cellular automata</pdf:Keywords>
+         <pdf:Producer>Acrobat Distiller 8.1.0 (Windows)</pdf:Producer>
+         <xmpMM:DocumentID>uuid:4c973a80-4b30-4d76-a1d2-f9e03a64abc2</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:cb6bbfbc-9d95-43ff-868b-69d6f4818ac2</xmpMM:InstanceID>
+         <crossmark:DOI>10.1080/17477778.2018.1508937</crossmark:DOI>
+         <crossmark:MajorVersionDate>2018-09-04</crossmark:MajorVersionDate>
+         <crossmark:CrossmarkDomainExclusive>True</crossmark:CrossmarkDomainExclusive>
+         <crossmark:CrossMarkDomains>
+            <rdf:Seq>
+               <rdf:li>www.tandfonline.com</rdf:li>
+            </rdf:Seq>
+         </crossmark:CrossMarkDomains>
+         <pdfx:doi>10.1080/17477778.2018.1508937</pdfx:doi>
+         <pdfx:CrossmarkMajorVersionDate>2018-09-04</pdfx:CrossmarkMajorVersionDate>
+         <pdfx:CrossmarkDomainExclusive>True</pdfx:CrossmarkDomainExclusive>
+         <pdfx:CrossMarkDomains>
+            <rdf:Seq>
+               <rdf:li>www.tandfonline.com</rdf:li>
+            </rdf:Seq>
+         </pdfx:CrossMarkDomains>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj7 0 obj<</Author(Su Jiafu)/CreationDate(D:20190909144049+05'30')/Creator(Arbortext Advanced Print Publisher 11.0.3433/W Unicode)/CrossMarkDomains#5B1#5D(www.tandfonline.com)/CrossmarkDomainExclusive(True)/CrossmarkMajorVersionDate(2018-09-04)/Keywords(Knowledge collaboration organisation; knowledge diffusion; SEIR model; heterogeneity and mobility; cellular automata)/ModDate(D:20250602143513-03'00')/Producer(Acrobat Distiller 8.1.0 \(Windows\))/Subject(Journal of Simulation, 2019. doi:10.1080/17477778.2018.1508937)/Title(Modelling and simulating knowledge diffusion in knowledge collaboration organisations using improved cellular automata)/doi(10.1080/17477778.2018.1508937)>>endobj550 0 obj[551 0 R 552 0 R 561 0 R 562 0 R]endobj561 0 obj<</AP<</N 563 0 R>>/C[1.0 0.756866 0.0]/CA 0.399994/CreationDate(D:20250602143429-03'00')/F 4/M(D:20250602143429-03'00')/NM(17864f01-4a97-437a-beab-b0e32e401e6c)/P 14 0 R/Popup 562 0 R/QuadPoints[306.649 493.613 535.237 493.613 306.649 481.937 535.237 481.937 306.649 480.635 535.33 480.635 306.649 468.959 535.33 468.959 306.649 467.657 535.247 467.657 306.649 455.981 535.247 455.981 306.649 454.616 535.278 454.616 306.649 442.94 535.278 442.94 306.649 441.638 535.352 441.638 306.649 429.962 535.352 429.962 306.649 428.66 532.99 428.66 306.649 416.984 532.99 416.984]/Rect[306.285 416.619 535.717 493.978]/Subj(Realce)/Subtype/Highlight/T(Marcelo)/Type/Annot>>endobj562 0 obj<</F 28/Open false/Parent 561 0 R/Rect[595.276 401.613 779.276 493.613]/Subtype/Popup/Type/Annot>>endobj563 0 obj<</BBox[0.0 0.0 229.433 77.3593]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 564 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+
+endstreamendobj564 0 obj<</BBox[0.0 0.0 229.433 77.3593]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 565 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj565 0 obj<</BBox[306.285 416.619 535.717 493.978]/Filter[/FlateDecode]/FormType 1/Length 168/Matrix[1.0 0.0 0.0 1.0 -306.285 -416.619]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+HâtèKA˜sä>i†˘]H7„∆ç◊£$C“.©§*L‘U«œ˚ëÖè◊¡SAW¨±!ÿx<.,ô«y´ÌYπÁqªÿÍ‘ä>AYËg3œ?¨‹^ÅpƒVT´9+WÏPôΩ∑(wG¥û¨¸O¢ls‹≥r{ëB±ÊÊıüÔYπΩàöÀŸZë<åÔá9√Cˆ¨‹OÒ-¿ !Õf\
+endstreamendobjxref
+0 1
+0000000000 65535 f
+4 1
+0002159836 00000 n
+7 1
+0002166418 00000 n
+550 1
+0002167110 00000 n
+561 5
+0002167161 00000 n
+0002167844 00000 n
+0002167960 00000 n
+0002168308 00000 n
+0002168544 00000 n
+trailer
+<</Size 566/Root 1 0 R/Info 7 0 R/ID[<5754FA9B26F3D1F0B3F123B398E035E9><2F6A1FCE3461174AB33B30ED7C201768>]/Prev 2159342>>
+startxref
+2168930
+%%EOF
+4 0 obj<</Length 6505/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c001 79.675d0f7, 2023/06/11-19:21:16        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+            xmlns:jav="http://www.niso.org/schemas/jav/1.0/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:crossmark="http://crossref.org/crossmark/1.0/"
+            xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/">
+         <dc:format>application/pdf</dc:format>
+         <dc:identifier>10.1080/17477778.2018.1508937</dc:identifier>
+         <dc:lang>en</dc:lang>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Modelling and simulating knowledge diffusion in knowledge collaboration organisations using improved cellular automata</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Su Jiafu</rdf:li>
+               <rdf:li>Zhang Xuefeng</rdf:li>
+               <rdf:li>Yang Jiaquan</rdf:li>
+               <rdf:li>Qian Xiaoduo</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:publisher>
+            <rdf:Bag>
+               <rdf:li>Taylor &amp; Francis</rdf:li>
+            </rdf:Bag>
+         </dc:publisher>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Journal of Simulation, 2019. doi:10.1080/17477778.2018.1508937</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <dc:subject>
+            <rdf:Bag>
+               <rdf:li>Knowledge collaboration organisation</rdf:li>
+               <rdf:li>knowledge diffusion</rdf:li>
+               <rdf:li>SEIR model</rdf:li>
+               <rdf:li>heterogeneity and mobility</rdf:li>
+               <rdf:li>cellular automata</rdf:li>
+            </rdf:Bag>
+         </dc:subject>
+         <prism:aggregationType>Journal</prism:aggregationType>
+         <prism:publicationName>Journal of Simulation</prism:publicationName>
+         <prism:copyright>¬© Operational Research Society 2019.</prism:copyright>
+         <prism:issn>1747-7778</prism:issn>
+         <prism:elssn>1747-7786</prism:elssn>
+         <prism:volume>13</prism:volume>
+         <prism:number>3</prism:number>
+         <prism:issueName/>
+         <prism:startingPage>181</prism:startingPage>
+         <prism:endingPage>194</prism:endingPage>
+         <prism:doi>10.1080/17477778.2018.1508937</prism:doi>
+         <prism:url>https://doi.org/10.1080/17477778.2018.1508937</prism:url>
+         <jav:journal_article_version>VoR</jav:journal_article_version>
+         <xmp:CreateDate>2019-09-09T14:40:49+05:30</xmp:CreateDate>
+         <xmp:CreatorTool>Arbortext Advanced Print Publisher 11.0.3433/W Unicode</xmp:CreatorTool>
+         <xmp:ModifyDate>2025-06-02T14:37:24-03:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2025-06-02T14:37:24-03:00</xmp:MetadataDate>
+         <pdf:Keywords>Knowledge collaboration organisation; knowledge diffusion; SEIR model; heterogeneity and mobility; cellular automata</pdf:Keywords>
+         <pdf:Producer>Acrobat Distiller 8.1.0 (Windows)</pdf:Producer>
+         <xmpMM:DocumentID>uuid:4c973a80-4b30-4d76-a1d2-f9e03a64abc2</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:93753d64-b9a9-4dfe-8aef-f4a23a976cda</xmpMM:InstanceID>
+         <crossmark:DOI>10.1080/17477778.2018.1508937</crossmark:DOI>
+         <crossmark:MajorVersionDate>2018-09-04</crossmark:MajorVersionDate>
+         <crossmark:CrossmarkDomainExclusive>True</crossmark:CrossmarkDomainExclusive>
+         <crossmark:CrossMarkDomains>
+            <rdf:Seq>
+               <rdf:li>www.tandfonline.com</rdf:li>
+            </rdf:Seq>
+         </crossmark:CrossMarkDomains>
+         <pdfx:doi>10.1080/17477778.2018.1508937</pdfx:doi>
+         <pdfx:CrossmarkMajorVersionDate>2018-09-04</pdfx:CrossmarkMajorVersionDate>
+         <pdfx:CrossmarkDomainExclusive>True</pdfx:CrossmarkDomainExclusive>
+         <pdfx:CrossMarkDomains>
+            <rdf:Seq>
+               <rdf:li>www.tandfonline.com</rdf:li>
+            </rdf:Seq>
+         </pdfx:CrossMarkDomains>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj7 0 obj<</Author(Su Jiafu)/CreationDate(D:20190909144049+05'30')/Creator(Arbortext Advanced Print Publisher 11.0.3433/W Unicode)/CrossMarkDomains#5B1#5D(www.tandfonline.com)/CrossmarkDomainExclusive(True)/CrossmarkMajorVersionDate(2018-09-04)/Keywords(Knowledge collaboration organisation; knowledge diffusion; SEIR model; heterogeneity and mobility; cellular automata)/ModDate(D:20250602143724-03'00')/Producer(Acrobat Distiller 8.1.0 \(Windows\))/Subject(Journal of Simulation, 2019. doi:10.1080/17477778.2018.1508937)/Title(Modelling and simulating knowledge diffusion in knowledge collaboration organisations using improved cellular automata)/doi(10.1080/17477778.2018.1508937)>>endobj550 0 obj[551 0 R 552 0 R 561 0 R 562 0 R 566 0 R 567 0 R]endobj566 0 obj<</AP<</N 568 0 R>>/C[0.972549 0.392151 0.392151]/CA 0.399994/CreationDate(D:20250602143716-03'00')/F 4/M(D:20250602143716-03'00')/NM(3059f269-0e7a-4c32-b54c-43aa471ec191)/P 14 0 R/Popup 567 0 R/QuadPoints[306.649 415.619 535.352 415.619 306.649 403.943 535.352 403.943 306.649 402.64 535.405 402.64 306.649 390.964 535.405 390.964 306.649 389.662 376.192 389.662 306.649 377.986 376.192 377.986]/Rect[306.285 377.621 535.769 415.983]/Subj(Realce)/Subtype/Highlight/T(Marcelo)/Type/Annot>>endobj567 0 obj<</F 28/Open false/Parent 566 0 R/Rect[595.276 323.619 779.276 415.619]/Subtype/Popup/Type/Annot>>endobj568 0 obj<</BBox[0.0 0.0 229.485 38.362]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 569 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+
+endstreamendobj569 0 obj<</BBox[0.0 0.0 229.485 38.362]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 570 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+
+endstreamendobj570 0 obj<</BBox[306.285 377.621 535.769 415.983]/Filter[/FlateDecode]/FormType 1/Length 123/Matrix[1.0 0.0 0.0 1.0 -306.285 -377.621]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+Hâtåª√0{M°	àß˜ì∏P“8MØoàcp:‚¿;ªÜ≥
+å⁄¢„˝,ÇÆu-&âtzu1–5ÎÎƒZ €à∫î∞ÄÖ˛aªªî«aLèKQtÒØ=W‹≤ü{-ˆé¥s—ë©6ü÷çzãvÛ”€ ™8
+endstreamendobjxref
+0 1
+0000000000 65535 f
+4 1
+0002169304 00000 n
+7 1
+0002175886 00000 n
+550 1
+0002176578 00000 n
+566 5
+0002176645 00000 n
+0002177152 00000 n
+0002177268 00000 n
+0002177615 00000 n
+0002177850 00000 n
+trailer
+<</Size 571/Root 1 0 R/Info 7 0 R/ID[<5754FA9B26F3D1F0B3F123B398E035E9><CBB3C09D030D5742A7FE54EA0F66C5F0>]/Prev 2168930>>
+startxref
+2178191
+%%EOF
